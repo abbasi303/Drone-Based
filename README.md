@@ -90,6 +90,8 @@ Drone Based/
 
 ## Kaggle Reference
 - [Original U-Net Crack Detection Pipeline on Kaggle](https://www.kaggle.com/code/artipixel/notebook6077eef179)
+- [SUT-CRACK DATASET](https://data.mendeley.com/datasets/gsbmknrhkv/6)
+- [DEEPCRACK DATASET](https://github.com/yhlleo/DeepCrack/blob/master/dataset/DeepCrack.zip)
 
 ## License
 This project is for academic/research use. Contact the author for other uses. 
