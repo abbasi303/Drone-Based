@@ -88,5 +88,8 @@ Drone Based/
 - Only images with GPS EXIF metadata will show a map location.
 - For best results, use high-quality drone images.
 
+## Kaggle Reference
+- [Original U-Net Crack Detection Pipeline on Kaggle](https://www.kaggle.com/code/artipixel/notebook6077eef179)
+
 ## License
 This project is for academic/research use. Contact the author for other uses. 
