@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+Pillow
+exifread
+folium
+python-multipart 
+segmentation-models-pytorch 
